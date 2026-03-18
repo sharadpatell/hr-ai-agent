@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+hrenv/
+data/vector_db/
+logs/
+chroma_db/
+.DS_Store
+*.log
